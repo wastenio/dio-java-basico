@@ -1,18 +1,26 @@
-## Getting Started
+# ContaTerminal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um projeto de exemplo que implementa uma classe ContaTerminal em Java realizado através do curso da DIO.
 
-## Folder Structure
+## Descrição
 
-The workspace contains two folders by default, where:
+A classe ContaTerminal representa uma conta bancária simples que pode ser usada em um terminal de caixa eletrônico. Ela possui métodos para depositar dinheiro, e verificar o saldo disponível.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Funcionalidades
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Depositar dinheiro na conta
+- Verificar saldo disponível
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Pré-requisitos
 
-## Dependency Management
+- Java Development Kit (JDK) instalado
+- Ambiente de desenvolvimento Java configurado
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Como usar
+
+1. Clone este repositório em sua máquina local.
+2. Abra o projeto em seu ambiente de desenvolvimento Java.
+3. Compile e execute o arquivo ContaTerminal.java.
+4. Siga as instruções no terminal para interagir com a conta bancária.
+
+## Exemplo de uso

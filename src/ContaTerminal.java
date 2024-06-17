@@ -18,6 +18,7 @@ public class ContaTerminal {
         double saldo = scanner.nextDouble();
 
         System.out.println("Olá " + nome + " o valor depositado na sua conta foi de: " + saldo + " esse valor foi depositado na sua conta de " + numero + " e agencia " + agencia + "!");
+        scanner.close();
     }
     
 }
